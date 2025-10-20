@@ -28,7 +28,7 @@
 
 ## Notable Work 💡
 
-- 🧠 [**Semantic Convergence**](https://openreview.net/pdf/89a7f2de1ddc6a3ad35fa6fb4885a653281f566b.pdf): Research paper exploring sparse autoencoder-based LLM feature universality analysis (ACL 2025)
+- 🧠 [**Semantic Convergence**](https://www.arxiv.org/pdf/2507.22918): Research paper exploring sparse autoencoder-based LLM feature universality analysis (ACL 2025)
 - 🎧 [**Jamify**](https://github.com/adriansimonn/Jamify): Spotify playlist generator powered by natural language with OpenAI API + song data with Spotify Web API
 - 🩺 [**LungSense.AI**](https://github.com/adriansimonn/LungSenseAI): Lung cancer predictor w/ Flask backend and 96.5% logistic regression model accuracy
 - 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing October 2025)
