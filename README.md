@@ -16,13 +16,13 @@
 
 ---
 
-## Languages, Frameworks, and Technologies
+## Languages, Libraries/Frameworks, and Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,bash" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=react,flask,pytorch,tensorflow,sklearn,heroku" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,flask,express,pytorch,tensorflow,sklearn" alt="Frameworks"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,github,vscode,postman" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=aws,git,docker,heroku,nodejs,github,vscode,postman" alt="Tools"/>
 
 ---
 
