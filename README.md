@@ -1,16 +1,17 @@
 # Hey! I'm Adrian 👋
 
 - 🎓 Undergrad CS @ Arizona State University (2027)
+- 👨‍💻 Incoming Software Engineer Intern at LinkedIn (Summer 2026)
 - 🧠 Published AI/ML Researcher (ACL SRW 2025 🎉)
 - 💻 Aspiring Software Engineer building [Enfora](https://enfora.app)
-- 🧪 Passionate about software development, artificial intelligence, and cloud infrastructure
+- 🧪 Passionate about software development and artificial intelligence
 
 ---
 
 ## This Month's Focus 📌
 
-- 🚀 Shipping MVP of Enfora (AWS, Docker, Stripe, OpenAI)
-- 📈 Scaling backend workflows with Lambda and CI/CD
+- 🚀 Shipping MVP of Enfora
+- 🌐 Finishing and deploying my portfolio website
 - 🛠️ Polishing DSA skills and learning new technologies
 - 🧬 Exploring new complex LLM topics
 
@@ -50,5 +51,3 @@
 - 🔗 LinkedIn: [adriansimonn](https://www.linkedin.com/in/adriansimonn/)  
 
 ---
-
-_Actively seeking internships in software and artificial intelligence 🧠🚀_
