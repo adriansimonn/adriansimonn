@@ -32,15 +32,14 @@
 - 🧠 [**Semantic Convergence**](https://www.arxiv.org/pdf/2507.22918): Research paper exploring sparse autoencoder-based LLM feature universality analysis (ACL 2025)
 - 🎧 [**Jamify**](https://github.com/adriansimonn/Jamify): Spotify playlist generator powered by natural language with OpenAI API + song data with Spotify Web API
 - 🩺 [**LungSense.AI**](https://github.com/adriansimonn/LungSenseAI): Lung cancer predictor w/ Flask backend and 96.5% logistic regression model accuracy
-- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing October 2025)
+- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing November 2025)
 
 ---
 
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriansimonn&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansimonn&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansimonn&layout=donut&theme=holi" height="200"/>
 </p>
 
 ---
