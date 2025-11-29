@@ -11,9 +11,9 @@
 ## This Month's Focus 📌
 
 - 🚀 Shipping MVP of Enfora
-- 🌐 Finishing and deploying my portfolio website
+- 🧠 Exploring low level LLM topics and research
+- 🌐 Finishing touches on my portfolio website
 - 🛠️ Polishing DSA skills and learning new technologies
-- 🧬 Exploring new complex LLM topics
 
 ---
 
