@@ -12,8 +12,7 @@
 
 - 🚀 Shipping MVP of Enfora
 - 🧠 Exploring low level LLM topics and research
-- 🌐 Finishing touches on my portfolio website
-- 🛠️ Polishing DSA skills and learning new technologies
+- 🛠️ Polishing engineering skills and learning new technologies
 
 ---
 
@@ -21,9 +20,9 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=react,flask,express,pytorch,tensorflow,sklearn" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,flask,express,sklearn" alt="Frameworks"/>
 
-<img src="https://skillicons.dev/icons?i=aws,git,docker,heroku,nodejs,github,vscode,postman" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=aws,git,heroku,nodejs,github,vscode,postman" alt="Tools"/>
 
 ---
 
@@ -31,8 +30,8 @@
 
 - 🧠 [**Semantic Convergence**](https://www.arxiv.org/pdf/2507.22918): Research paper exploring sparse autoencoder-based LLM feature universality analysis (ACL 2025)
 - 🎧 [**Jamify**](https://github.com/adriansimonn/Jamify): Spotify playlist generator powered by natural language with OpenAI API + song data with Spotify Web API
-- 🩺 [**LungSense.AI**](https://github.com/adriansimonn/LungSenseAI): Lung cancer predictor w/ Flask backend and 96.5% logistic regression model accuracy
-- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing November 2025)
+- 🩺 [**LungSense.AI**](https://github.com/adriansimonn/LungSenseAI): Lung cancer predictor w/ Flask backend and 96.5% accurate logistic regression model
+- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing December 2025)
 
 ---
 
