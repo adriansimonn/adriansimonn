@@ -1,16 +1,16 @@
 # Hey! I'm Adrian 👋
 
-- 🎓 Undergrad CS @ Arizona State University (2027)
 - 👨‍💻 Incoming Software Engineer Intern at LinkedIn (Summer 2026)
 - 🧠 Published AI/ML Researcher (ACL SRW 2025 🎉)
-- 💻 Aspiring Software Engineer building [Enfora](https://enfora.app)
+- 💻 Building [Enfora](https://enfora.app)
 - 🧪 Passionate about software development and artificial intelligence
+- 🎓 Undergrad CS @ Arizona State University (2027)
 
 ---
 
 ## This Month's Focus 📌
 
-- 🚀 Shipping MVP of Enfora
+- 🚀 Shipping Enfora v1
 - 🧠 Exploring low level LLM topics and research
 - 🛠️ Polishing engineering skills and learning new technologies
 
@@ -31,7 +31,7 @@
 - 🧠 [**Semantic Convergence**](https://www.arxiv.org/pdf/2507.22918): Research paper exploring sparse autoencoder-based LLM feature universality analysis (ACL 2025)
 - 🎧 [**Jamify**](https://github.com/adriansimonn/Jamify): Spotify playlist generator powered by natural language with OpenAI API + song data with Spotify Web API
 - 🩺 [**LungSense.AI**](https://github.com/adriansimonn/LungSenseAI): Lung cancer predictor w/ Flask backend and 96.5% accurate logistic regression model
-- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability platform — Stripe, Docker, AWS stack, Vision validation (releasing December 2025)
+- 🛠 [**Enfora**](https://enfora.app): AI-backed accountability enforcement platform — AWS, Stripe, Express.js, React, Node.js (releasing December 2025)
 
 ---
 
