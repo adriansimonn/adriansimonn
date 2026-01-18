@@ -1,21 +1,21 @@
-# Hey! I'm Adrian 👋
+## Hey! I'm Adrian
 
-- 👨‍💻 Incoming Software Engineer Intern at LinkedIn (Summer 2026)
-- 🧠 Published AI/ML Researcher (ACL SRW 2025 🎉)
-- 🧪 Passionate about software development, natural language processing, and mechanistic interpretability in LLMs
-- 🎓 Undergrad CS @ Arizona State University (2027)
-
----
-
-## This Month's Focus 📌
-
-- 🛠️ Building [Ozera](https://www.linkedin.com/company/ozera-ai): a tool for NLP/LLM researchers + enthusiasts
-- 🤖 Exploring the math behind the transformer architecture and SAEs
-- 👷🏽‍♂️ Polishing [Enfora](enfora.app), a recent beta release
+- Incoming Software Engineer Intern at LinkedIn (Summer 2026)
+- Published AI/ML Researcher (ACL SRW 2025)
+- Interested in software development, natural language processing, and mechanistic interpretability in LLMs
+- Undergrad CS @ Arizona State University
 
 ---
 
-## Languages, Libraries/Frameworks, and Technologies
+### Currently:
+
+- Building [Ozera](https://www.linkedin.com/company/ozera-ai): a tool for NLP/LLM researchers + enthusiasts
+- Exploring the math behind the transformer architecture and SAEs
+- Polishing [Enfora](enfora.app), a recent beta release
+
+---
+
+### Languages, Libraries/Frameworks, and Technologies
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Languages"/>
 
@@ -25,9 +25,9 @@
 
 ---
 
-## Contact Me 📲
+### Contact Me
 
-- 📫 Email: [adriansimon477@gmail.com](mailto:adriansimon477@gmail.com)  
-- 🔗 LinkedIn: [adriansimonn](https://www.linkedin.com/in/adriansimonn/)  
+- Email: [adriansimon477@gmail.com](mailto:adriansimon477@gmail.com)  
+- LinkedIn: [adriansimonn](https://www.linkedin.com/in/adriansimonn/)  
 
 ---
