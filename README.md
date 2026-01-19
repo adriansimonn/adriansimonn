@@ -2,7 +2,7 @@
 
 - Incoming Software Engineer Intern at LinkedIn (Summer 2026)
 - Published AI/ML Researcher (ACL SRW 2025)
-- Interested in software development, natural language processing, and mechanistic interpretability in LLMs
+- Interested in software development, machine learning, NLP/LLMs, and mechanistic interpretability
 - Undergrad CS @ Arizona State University
 
 ---
