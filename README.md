@@ -11,7 +11,7 @@
 
 - Building [Ozera](https://www.linkedin.com/company/ozera-ai): a tool for NLP/LLM researchers + enthusiasts
 - Exploring the math behind the transformer architecture and SAEs
-- Polishing [Enfora](enfora.app), a recent beta release
+- Polishing [Enfora](https://www.enfora.app), a recent beta release
 
 ---
 
