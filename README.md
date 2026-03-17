@@ -1,17 +1,16 @@
 ## Hey! I'm Adrian
 
 - Incoming Software Engineer Intern at LinkedIn (Summer 2026)
+- Interested in software development, machine learning, LLMs, and interpretability
 - Published AI/ML Researcher (ACL SRW 2025)
-- Interested in software development, machine learning, NLP/LLMs, and mechanistic interpretability
 - Undergrad CS @ Arizona State University
 
 ---
 
 ### Currently:
 
-- Building [Ozera](https://www.linkedin.com/company/ozera-ai): a tool for NLP/LLM researchers + enthusiasts
-- Exploring the math behind the transformer architecture and SAEs
-- Polishing [Enfora](https://www.enfora.app), a recent beta release
+- Polishing [Ozera](https://www.ozera.app/), a recent beta release
+- Writing another LLM mechanistic interpretability paper
 
 ---
 
