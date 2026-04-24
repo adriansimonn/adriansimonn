@@ -9,8 +9,8 @@
 
 ### Currently:
 
-- Polishing [Ozera](https://www.ozera.app/), a recent beta release
-- Writing another LLM mechanistic interpretability paper
+- Building a new project and gearing up for summer
+- Exploring research
 
 ---
 
