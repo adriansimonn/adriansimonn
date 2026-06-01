@@ -10,7 +10,6 @@
 ### Currently:
 
 - Building a new project and learning new things
-- Exploring research
 
 ---
 
