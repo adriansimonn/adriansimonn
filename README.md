@@ -1,7 +1,7 @@
 ## Hey! I'm Adrian
 
-- Incoming Software Engineer Intern at LinkedIn (Summer 2026)
-- Interested in software development, machine learning, LLMs, and interpretability
+- Software Engineer Intern at LinkedIn (Summer 2026)
+- Interested in applied AI engineering and LLMs
 - Published AI/ML Researcher (ACL SRW 2025)
 - Undergrad CS @ Arizona State University
 
@@ -9,7 +9,7 @@
 
 ### Currently:
 
-- Building a new project and gearing up for summer
+- Building a new project and learning new things
 - Exploring research
 
 ---
