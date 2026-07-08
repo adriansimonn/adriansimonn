@@ -9,8 +9,8 @@
 
 ### Currently:
 
-- Working on applied AI at LinkedIn
-- Building a new project and exploring new topics
+- Working on ML and Applied AI at LinkedIn
+- Building a new project and exploring Agentic AI
 
 ---
 
